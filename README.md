@@ -22,7 +22,7 @@ type User = {
     lastName: string
 }
 
-const UserConverter = firestoreConverter<User>()Generate a Firestore converter to automatically make your documents compatible with Typescript
+const UserConverter = firestoreConverter<User>()
 ```
 
 That's it! Now you can use the converter wherever you use Firestore. For example:
