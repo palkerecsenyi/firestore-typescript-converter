@@ -10,6 +10,7 @@
   "private": false,
   "scripts": {
     "build": "tsc"
+    "prepublishOnly": "tsc"
   },
   "devDependencies": {
     "firebase": "^9.x",
