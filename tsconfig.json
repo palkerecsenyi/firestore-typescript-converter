@@ -3,7 +3,7 @@
     "module": "commonjs",
     "noImplicitAny": true,
     "removeComments": true,
-    "sourceMap": true,
+    "inlineSourceMap": true,
     "declaration": true,
     "esModuleInterop": true,
     "outDir": "dist",
