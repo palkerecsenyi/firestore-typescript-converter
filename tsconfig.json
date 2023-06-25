@@ -4,6 +4,7 @@
     "noImplicitAny": true,
     "removeComments": true,
     "inlineSourceMap": true,
+    "inlineSources": true,
     "declaration": true,
     "esModuleInterop": true,
     "outDir": "dist",

@@ -1,6 +1,6 @@
 {
   "name": "firestore-typescript-converter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generate a Firestore converter to automatically make your documents compatible with Typescript",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
