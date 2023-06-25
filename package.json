@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
     "prepublishOnly": "tsc"
   },
   "devDependencies": {
